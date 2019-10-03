@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">p3karm</string>
+    <string name="Descripcion">Tesoem</string>
+    <string name="Titulo">Proyecto</string>
+    <string name="Texto1">Tecnologico de Estudios Superiores</string>
+    <string name="contenido">contenido de la app</string>
+    <string name="Titulo2">Menu Principal</string>
+</resources>
